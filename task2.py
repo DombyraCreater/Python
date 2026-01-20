@@ -1,3 +1,4 @@
-name1 = input()
-name2 = input()
-print(name1,name2,sep="***")
+x = input()
+y = input()
+result1 =int(x)%int(y)
+print(result1)
